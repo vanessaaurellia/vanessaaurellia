@@ -16,8 +16,5 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></p>
 
 ## <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="20px"> Hello World!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaaurellia&show_icons=true&theme=transparent&hide_rank=true&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaaurellia&layout=compact&theme=transparent)
-<br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=vanessaaurellia&theme=transparent&mode=weekly)](https://git.io/streak-stats)
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=white&qColor=black&aColor=%23218bff&textColor=%23218bff&hideBorder=true)
