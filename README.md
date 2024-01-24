@@ -2,7 +2,7 @@
 * 👩‍🎓 Computer Science Graduate from BINUS University
 * 👩‍💻 Testing Analyst at PT Bank Central Asia Tbk
 
-## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="20px"> Technologies
+## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="22px"> Technologies
 <p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
