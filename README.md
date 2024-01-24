@@ -19,4 +19,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaaurellia&show_icons=true&theme=transparent&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaaurellia&layout=compact&theme=transparent)
 <br>
-![Jokes Card](https://readme-jokes.vercel.app/api&theme=transparent)
+![Jokes Card](https://readme-jokes.vercel.app/api&bgColor=white)
