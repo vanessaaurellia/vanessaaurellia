@@ -3,6 +3,7 @@
 * 👩‍💻 Testing Analyst at PT Bank Central Asia Tbk
 
 ## ⚡ Technologies
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
 ## 💻 Hello World!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaaurellia&show_icons=true&theme=tokyonight)
