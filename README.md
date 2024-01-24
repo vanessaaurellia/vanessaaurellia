@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Hi there, I'm Vanessa! <img src="https://media.giphy.com/media/z7YsKhiSQQ9gFv0ZEB/giphy.gif" align="right">
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Hi there, I'm Vanessa! <img src="https://media.giphy.com/media/73Os0o1uTQocA0UfLI/giphy.gif" align="right">
 👩‍🎓 Computer Science Graduate from BINUS University<br>
 👩‍💻 Testing Analyst at PT Bank Central Asia Tbk
 
