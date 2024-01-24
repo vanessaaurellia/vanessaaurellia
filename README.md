@@ -1,8 +1,8 @@
 <div>
   <h2> 
-    Hi there, I'm Vanessa! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+    Hi there, I'm Vanessa! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
   </h2>
-  <img align='right' src='https://media.giphy.com/media/jqrqG8rqoeWYhUxpuu/giphy.gif' width='200"'>
+  <img align='right' src='https://media.giphy.com/media/73Os0o1uTQocA0UfLI/giphy.gif' width='200"'>
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaaurellia&show_icons=true&theme=tokyonight)
