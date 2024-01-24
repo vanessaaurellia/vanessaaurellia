@@ -2,7 +2,6 @@
 * Computer Science Graduate from BINUS University
 * Testing Analyst at PT Bank Central Asia Tbk
 
-
 ## ⚡ Technologies
 
 ## 💻 Hello World!
