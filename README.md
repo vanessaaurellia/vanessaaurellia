@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Hi there, I'm Vanessa! <img align='right' src='https://media.giphy.com/media/73Os0o1uTQocA0UfLI/giphy.gif' width='200"'>
+## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Hi there, I'm Vanessa! <img align="right" src="https://media.giphy.com/media/73Os0o1uTQocA0UfLI/giphy.gif" width="200">
 * 👩‍🎓 Computer Science Graduate from BINUS University
 * 👩‍💻 Testing Analyst at PT Bank Central Asia Tbk
 
@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/></p>
 
-## <https://media.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.gif" width="20px"> Hello World!
+## <img src="https://media.giphy.com/media/e0Uiyu70TXQAALdKP9/giphy.gif" width="20px"> Hello World!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaaurellia&show_icons=true&theme=tokyonight)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaaurellia&layout=compact&theme=tokyonight)
