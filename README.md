@@ -1,6 +1,6 @@
 <div>
   <h2> 
-    Hi there, I'm Vanessa! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Hi there, I'm Vanessa!
   </h2>
   <img align='right' src='https://media.giphy.com/media/73Os0o1uTQocA0UfLI/giphy.gif' width='200"'>
 </div>
