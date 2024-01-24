@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px"> Hi there, I'm Vanessa! <img src="https://media.giphy.com/media/73Os0o1uTQocA0UfLI/giphy.gif" width="200" align="right">
-* 👩‍🎓 Computer Science Graduate from BINUS University
-* 👩‍💻 Testing Analyst at PT Bank Central Asia Tbk
+👩‍🎓 Computer Science Graduate from BINUS University<br>
+👩‍💻 Testing Analyst at PT Bank Central Asia Tbk
 
 ## <img src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="22px"> Technologies
 <p><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
