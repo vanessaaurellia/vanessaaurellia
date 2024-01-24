@@ -17,7 +17,6 @@
 
 ## <img src="https://media.giphy.com/media/yo1whaKkz38ME/giphy.gif" width="20px"> Hello World!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaaurellia&show_icons=true&theme=transparent&hide_rank=true)
-<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaaurellia&layout=compact&theme=transparent)
 <br>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api&theme=transparent)
